@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="6.142">
+ <testsuite name="Enter GURU99 Name" timestamp="2018-04-29T18:57:02" hostname="localhost" time="6.142" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Enter GURU99 Name" name="should add a Name as GURU99" time="6.139" />
+ </testsuite>
+</testsuites>
