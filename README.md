@@ -2,7 +2,8 @@
 
 
 - Download or clone the current files to your local directory.
-- Ensure that NodeJS is properly installed in computer, and run "npm install -g protractor", then run "webdriver-manager start"
+- Ensure that NodeJS is properly installed in computer, and run "npm install -g protractor".
+- Update the Web driver manager "webdriver-manager update" then run "webdriver-manager start"
 - Browse to the root folder (example : firstApp)
 - Run in different command line "protractor conf.js"
 
